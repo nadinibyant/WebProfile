@@ -1,0 +1,62 @@
+body{
+    background-color: #FFEFF8;
+}
+
+nav {
+    background: linear-gradient(90deg, #3f3038 1.5%, #7e6d6d 92.13%);
+    z-index: 99;
+}
+
+.section1, footer {
+    background: hsla(328, 95%, 84%, 1);
+
+    background: radial-gradient(circle, hsla(328, 95%, 84%, 1) 1%, hsla(328, 14%, 22%, 1) 100%);
+
+    background: -moz-radial-gradient(circle, hsla(328, 95%, 84%, 1) 1%, hsla(328, 14%, 22%, 1) 100%);
+
+    background: -webkit-radial-gradient(circle, hsla(328, 95%, 84%, 1) 1%, hsla(328, 14%, 22%, 1) 100%);
+
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr="#FDAED8", endColorstr="#3F3038", GradientType=1);
+}
+
+.section1 p{
+    font-size: 5em;
+}
+
+.btn-read{
+    background-color: #FDAED8;
+}
+
+.btn-read:hover{
+    background-color: black;
+}
+
+.section2, .section3{
+    background-color:#FFEFF8;
+}
+
+.section2{
+    margin-top: -2%;
+}
+
+.skill{
+    background-color: #EDCEDF;
+}
+
+.section3{
+    margin-top: -5%;
+}
+
+.section4{
+    background-color: white;
+    margin-top: -5%;
+}
+
+.btn-project{
+    background-color: #3F3038;
+}
+
+.btn-project:hover{
+    background-color: grey;
+
+}
